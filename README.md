@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soaps1; the name comes from my first ever World of Warcraft character 2006, which was a human mage - it still exists today!
+- 👋 Hi, I’m @Soaps1; the name comes from my first ever World of Warcraft character in 2006, which was a human mage - it still exists today!
 - 👀 I’m interested in maths, science & golf
 - 🌱 I’m currently learning AI/ML application in finance & digital twins; but interested in broader applications too
 - ⚡ Fun fact: I coded my first model in NetBeans in 2008
